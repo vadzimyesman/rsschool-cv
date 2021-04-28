@@ -12,7 +12,7 @@
             displayTip(0.0)
             return
         }...
-**Experience:** Have done several big project while studying in Rollng Scopes School.
+**Experience:** Have done several big projects while studying in Rollng Scopes School.
 **Education:** 1. Belarussian National Technical University, Power Faculty (2010-2015)
                2. The Rolling Scopes School (2021-present time)
 **English level:** Living in the USA for almost 6 years, so I hope it is good enough.
