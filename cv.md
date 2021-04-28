@@ -1,7 +1,7 @@
 # Vadzim, Yesman
 ## e-mail: vvyesman@gmail.com, telegram: @vvyesman, linkedin: https://www.linkedin.com/in/vadzim-yesman-305287101?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUFkVPX6rSm%2B1gWHo2WqQkw%3D%3D
 **Summary:** My goal is to realise my full potential by becoming a successful Android developer. My wish is to really enjoy what I am doing and feel satisfied.
-**Skills:** 1. Beginners knowledge of Java
+**Skills:** 1. Beginner level in Java
             2. Basic knowledge in Kotlin
             3. Basic knowledge in Python
 **Code examples:**    
